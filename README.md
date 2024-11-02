@@ -25,10 +25,12 @@ This project serves as a practical application to showcase front-end skills, pri
 
 <h3>Getting Started</h3>
 <p>To get a local copy up and running, follow these steps.</p>
-<h5>Installation</h5>
+<h4>Installation</h4>
 <ol>
-  <li><b>Clone the repository: </b>git clone https://github.com/your-username/todo-app.git</li>
-  <li><b>Navigate to the project directory: </b>cd todo-app</li>
+  <li><b>Clone the repository: </b> <br />
+    git clone https://github.com/your-username/todo-app.git</li>
+  <li><b>Navigate to the project directory: </b> <br />
+    cd todo-app</li>
 </ol>
 
 
