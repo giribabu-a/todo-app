@@ -27,14 +27,31 @@ This project serves as a practical application to showcase front-end skills, pri
 <p>To get a local copy up and running, follow these steps.</p>
 <h4>Installation</h4>
 <ol>
-  <li><b>Clone the repository: </b> <br />
-    git clone https://github.com/your-username/todo-app.git</li>
-  <li><b>Navigate to the project directory: </b> <br />
-    cd todo-app</li>
+  <li>
+    <b>Clone the repository:</b> <br />
+      git clone https://github.com/your-username/todo-app.git
+  </li>
+  <li>
+    <b>Navigate to the project directory:</b> <br />
+      cd todo-app
+  </li>
+  <li>
+    <b>Install dependencies:</b> <br />
+      npm install
+  </li>
 </ol>
 
-
-
+<h4>Usage</h4>
+<ol>
+  <li>
+    <b>Start the development server:</b> <br />
+      npm run dev
+  </li>
+  <li>
+    <b>Open the app in your browser:</b> <br />
+      Go to http://localhost:5173 to view it in your browser.
+  </li>
+</ol>
 
 
 
