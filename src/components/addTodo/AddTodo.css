@@ -1,0 +1,7 @@
+.heading {
+    text-align: center;
+    margin: 20px auto 40px auto;
+    border-bottom: 4px double #fd7e14;
+    width: fit-content;
+    color: #dc3545;
+}
