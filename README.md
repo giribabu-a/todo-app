@@ -52,6 +52,7 @@ This project serves as a practical application to showcase front-end skills, pri
       Go to http://localhost:5173 to view it in your browser.
   </li>
 </ol>
+![image](https://github.com/user-attachments/assets/b91762ef-acac-424d-bb5c-dc5cc40f26a4)
 
 
 
